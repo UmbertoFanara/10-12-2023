@@ -1,0 +1,9 @@
+{
+    "mandatoryAffixes": [
+        "UF"
+    ],
+    "supportedCountries": [
+        "US",
+        "IT"
+    ]
+}

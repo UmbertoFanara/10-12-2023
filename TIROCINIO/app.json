@@ -1,0 +1,31 @@
+{
+  "id": "a11c378b-9def-4f2d-b0db-ad859237015f",
+  "name": "UF_SeminarManagement",
+  "publisher": "UF",
+  "version": "22.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "IMG/ASD.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 80100,
+      "to": 80149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": ["TranslationFile", "NoImplicitWith"],
+  "supportedLocales": ["en-US", "it-IT"]
+}
